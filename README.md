@@ -2,7 +2,7 @@ The file **unitfractionexpansions.py** contains Python code to produce all solut
 
 Here $k$ is any odd positive integer at least $3$, the $a_i$ are elements of $\lbrace 0,1,2 \rbrace$ that can vary with $i$, and the $b_i$ are nonnegative integers that can vary with $i$.  
 
-Version 0.1
+Version 0.1  
 Date: February 11, 2024  
 Author: Joel Louwsma, jlouwsma@niagara.edu  
 
