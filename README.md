@@ -9,6 +9,7 @@ This implements the algorithm described in "On solutions of $\sum_{i=1}^n1/x_i=1
 A solution is called *nontrivial* if b_i >= 1 for some i.
 
 FindSolutions(k,n) returns a list of solutions for k with n terms
+
 CountSolutions(k,n) returns the number of solutions for k with n terms
 FindNontrivialSolutions(k,n) returns a list of nontrivial solutions for k with n terms
 CountNontrivialSolutions(k,n) returns the number of nontrival solutions for k with n terms
