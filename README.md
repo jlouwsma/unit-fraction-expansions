@@ -4,7 +4,7 @@ Version 0.1
 Date: February 11, 2024  
 Author: Joel Louwsma, jlouwsma@niagara.edu  
 
-This implements the algorithm described in "On solutions of $\displaystyle\sum_{i=1}^n 1/x_i = 1$ in integers of the form $2^a k^b$, where $k$ is a fixed odd positive integer" by Joel Louwsma  
+This implements the algorithm described in "On solutions of $\displaystyle\sum_{i=1}^n 1/x_i = 1$ in integers of the form $2^a k^b$" by Joel Louwsma  
 
 A solution is called *nontrivial* if $b_i \geq 1$ for some $i$.  
 
