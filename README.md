@@ -1,6 +1,6 @@
 ## unitfractionexpansions.py
 
-Version 0.2 
+Version 0.2  
 Date: July 8, 2024  
 Author: Joel Louwsma, jlouwsma@niagara.edu  
 
